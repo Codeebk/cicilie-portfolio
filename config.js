@@ -12,32 +12,36 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'UX',
+      path: '/pages/ux'
     },
     {
-      label: 'About me',
+      label: 'Photo',
+      path: '/pages/photo'
+    },
+    {
+      label: 'Video',
+      path: '/pages/video'
+    },
+    {
+      label: 'About',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Cicilie Falbo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '1-2 sentence blurb goes here. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'ciciliemarie@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'ciciliefalbo',
+      instagram: 'ciciliefalbo',
       line: '',
       gitlab: '',
       weibo: '',
