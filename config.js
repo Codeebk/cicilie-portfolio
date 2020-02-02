@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Cicilie Falbo - Portfolio',
+  subtitle: 'I design interactive experiences, as well as create films, photography, and other visual media projects in Dallas, Texas.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -13,8 +13,12 @@ module.exports = {
   menu: [
     {
       label: 'UX',
-      path: '/pages/ux'
+      path: '/'
     },
+    // {
+    //   label: 'UX',
+    //   path: '/pages/ux'
+    // },
     {
       label: 'Photo',
       path: '/pages/photo'
@@ -30,8 +34,8 @@ module.exports = {
   ],
   author: {
     name: 'Cicilie Falbo',
-    photo: '/photo.jpg',
-    bio: '1-2 sentence blurb goes here. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/cicilie-headshot.jpg',
+    bio: 'I design interactive experiences, as well as create films, photography, and other visual media projects in Dallas, Texas.',
     contacts: {
       email: 'ciciliemarie@gmail.com',
       facebook: '',

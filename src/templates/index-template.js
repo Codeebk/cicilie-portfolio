@@ -8,6 +8,7 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
 import type { PageContext, AllMarkdownRemark } from '../types';
+import { StickyContainer, Sticky } from 'react-sticky';
 
 type Props = {
   data: AllMarkdownRemark,
@@ -31,7 +32,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
-      <Sidebar isIndex />
+     <Sidebar isIndex />
       <Page>
         <Feed edges={edges} />
         <Pagination

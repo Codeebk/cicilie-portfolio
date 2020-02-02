@@ -1,10 +1,10 @@
 ---
-title: The Origins of Social Stationery Lettering
+title: Case study two
 date: "2016-12-01T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "the-origins-of-social-stationery-lettering"
-category: "Design Culture"
+category: "Design"
 description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
 socialImage: "/media/image-3.jpg"
 ---
